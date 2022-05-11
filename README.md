@@ -1,4 +1,4 @@
-# SpaceDataSci-SOI
+# SpaceDataSci-SoI
 
 **Following is the description of columns in the given dataset**
 
