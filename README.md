@@ -55,3 +55,9 @@
 <ins>tce_sradius_err</ins>: Stellar Radius Unc. [Solar radii]
 
 <ins>av_training_set</ins>: Autovetter Training Set Label
+
+#
+
+**Classification Categories :-**
+- You are supposed to classify each record into one of the 4 categories: AFP, NTP, PC, UNK.
+- The last column in the dataset named <ins>av_training_set</ins>, in the .csv file, is the target column.
